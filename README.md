@@ -50,17 +50,3 @@ This project creates and evaluates study groups of Zoomerbinis using combinatori
   - Clean Coding Practices
 
 ---
-
-## Folder Structure 
-> optimal-study-group-allocation/
-> │
-> ├── data/
-> │ └── zoomerbinis.json # Sample input data defining Zoomerbinis and their subjects> │
-> ├── modules/
-> │ ├── zoomerbinis.py # Attribute decoding and Zoomerbini object logic
-> │ ├── validator.py # Validation logic for group eligibility
-> │ └── optimizer.py # Group scoring and optimization functions
-> │
-> ├── main.py # Main script to run the simulation
-> ├── requirements.txt # Dependencies (if any)
-> ├── README.md # Project documentation
